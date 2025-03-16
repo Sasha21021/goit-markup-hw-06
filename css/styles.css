@@ -311,6 +311,7 @@ button {
 
 .mobile-contacts-items {
   margin-bottom: 24px;
+  font-style: normal;
 }
 
 .mobile-contacts-items:last-child {
@@ -503,7 +504,6 @@ button {
 }
 
 .description-title {
-  text-align: center;
   position: absolute;
   width: 1px;
   height: 1px;
@@ -520,7 +520,6 @@ button {
   display: flex;
   flex-wrap: wrap;
   gap: 72px;
-  text-align: center;
 }
 
 .description-list-item {
@@ -1012,10 +1011,6 @@ button {
     text-align: start;
   }
 
-  .footer-container-social {
-    margin-left: 24px;
-  }
-
   .footer-social-text {
     text-align: start;
   }
@@ -1047,8 +1042,8 @@ button {
   }
 
   .footer-container {
-    padding-left: 0;
-    padding-right: 0;
+    padding-left: 15px;
+    padding-right: 15px;
   }
 
   .container-logo {
