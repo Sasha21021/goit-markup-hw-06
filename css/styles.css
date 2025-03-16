@@ -1250,6 +1250,10 @@ button {
   color: #8e8f99;
 }
 
+.custom-checkbox {
+  flex-shrink: 0;
+}
+
 .label-checkbox a {
   line-height: 1.33;
   text-decoration: underline;
